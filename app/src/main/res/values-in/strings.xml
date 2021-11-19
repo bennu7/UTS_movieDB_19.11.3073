@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daftar Movie</string>
+    <string name="language">Bahasa</string>
+    <string name="about">Tentang</string>
+    <string name="college">Lalu Ibnu Hidayatullah - 19.11.3073</string>
+    <string name="about_description">Merupakan aplikasi movie dengan memanfaatkan API dari themoviedb</string>
+</resources>

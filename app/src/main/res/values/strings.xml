@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Movie</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+    <string name="college">Lalu Ibnu Hidayatullah - 19.11.3073</string>
+    <string name="about_description">Is an app Movie using API themoviedb</string>
+</resources>
